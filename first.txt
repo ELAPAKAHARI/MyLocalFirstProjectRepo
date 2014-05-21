@@ -1,0 +1,6 @@
+testing mercurial repository
+
+making change
+
+Another change in clone directory
+
